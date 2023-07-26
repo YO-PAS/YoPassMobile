@@ -1,7 +1,0 @@
-{
-  "name": "YoPass-Mobile",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "angular"
-}
